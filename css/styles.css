@@ -115,18 +115,18 @@ img {
 /* Герой */
 .hero {
     padding-top: 200px;
-    padding-bottom: 200px;
+    padding-bottom: 200px;.
     background-color: var(--dark-background-color);
     text-align: center;
 }
-.hero-title {
+.hero-title {т
     width: 696px;
     margin-bottom: 30px;
     margin-left: auto;
     margin-right: auto;
     font-weight: 900;
     font-size: 44px;
-    line-height: 1.36x;
+    line-height: 1.36;
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--primary-white-color);
@@ -219,7 +219,6 @@ img {
     margin-right: 0;
 }
 .member-name {
-    margin-top: 30px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
@@ -277,7 +276,6 @@ img {
 .project-list-item{
     margin-right: auto;
     margin-bottom: 30px;
-    padding-bottom: 20px;
     border: 1px solid #EEEEEE;
 }
 .project-list-item:nth-last-child(-n+3){
